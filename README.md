@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaishnavi-28481
 - 👀 I’m interested in Statistics
-- 🌱 I’m currently learning Power BI
+- 🌱 I learned Power BI,Python,MySQL
 - 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me vaishanavi.metkar2802@gmail.com
 - 😄 Pronouns: Vaishnavi
